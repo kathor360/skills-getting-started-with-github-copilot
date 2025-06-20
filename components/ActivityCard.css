@@ -1,0 +1,27 @@
+/* ...existing code... */
+.participants-section {
+  margin-top: 1.5em;
+  padding: 1em;
+  background: #f7f9fa;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+}
+
+.participants-section h4 {
+  margin-bottom: 0.5em;
+  color: #2d3a4b;
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+.participants-list {
+  list-style-type: disc;
+  padding-left: 1.5em;
+  margin: 0;
+}
+
+.no-participants {
+  color: #888;
+  font-style: italic;
+}
+/* ...existing code... */
